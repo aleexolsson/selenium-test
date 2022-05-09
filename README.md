@@ -27,6 +27,3 @@ Give a ⭐️ if this project helped you!
 
 Copyright © 2022 [Alex Olsson](https://github.com/aleexolsson).<br />
 This project is [Apache 2.0](http://www.apache.org/licenses/) licensed.
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
