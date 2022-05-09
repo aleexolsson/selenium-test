@@ -3,7 +3,7 @@
   <a href="http://www.apache.org/licenses/" target="_blank">
     <img alt="License: Apache 2.0" src="https://img.shields.io/badge/License-Apache 2.0-yellow.svg" />
   </a>
-  <a href="https://twitter.com/alex\_olsson" target="_blank">
+  <a href="https://twitter.com/alex_olsson" target="_blank">
     <img alt="Twitter: alex\_olsson" src="https://img.shields.io/twitter/follow/alex\_olsson.svg?style=social" />
   </a>
 </p>
